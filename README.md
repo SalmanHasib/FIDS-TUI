@@ -163,9 +163,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Screenshots
 
-![FIDS-TUI Screenshot](screenshots/fids-tui-screenshot.png)
+![FIDS-TUI Screenshot](/screenshots/fids-tui.png)
 
-*Example: FIDS-TUI displaying departures from JFK airport*
+*Example: FIDS-TUI displaying departures from LAX airport*
 
 ---
 
