@@ -26,7 +26,7 @@ A beautiful terminal-based Flight Information Display System (FIDS) that shows r
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/FIDS-TUI.git
+git clone https://github.com/SalmanHasib/FIDS-TUI.git
 cd FIDS-TUI
 go build -o fids-tui
 ```
@@ -34,7 +34,7 @@ go build -o fids-tui
 ### Using Go Install
 
 ```bash
-go install github.com/yourusername/FIDS-TUI@latest
+go install github.com/SalmanHasib/FIDS-TUI@latest
 ```
 
 ## Configuration
@@ -160,11 +160,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - The airport may not have any scheduled departures in the configured time window
 - Try adjusting the `UPDATE_INTERVAL` or check the airport code
 
-## Screenshots
-
-*(Add screenshots of your application here)*
-
 ---
 
-Made with ❤️, Go, and Cursor
-
+Made with ❤️, Go, and Cursor  
+_An experiment on working with AI tools to quickly prototype a TUI. A more comprehensive (and hand built) version is in the works._
