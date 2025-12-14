@@ -160,6 +160,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - The airport may not have any scheduled departures in the configured time window
 - Try adjusting the `UPDATE_INTERVAL` or check the airport code
 
+
+## Screenshots
+
+![FIDS-TUI Screenshot](screenshots/fids-tui-screenshot.png)
+
+*Example: FIDS-TUI displaying departures from JFK airport*
+
 ---
 
 Made with ❤️, Go, and Cursor  
